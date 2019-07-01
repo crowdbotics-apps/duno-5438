@@ -1,0 +1,3 @@
+rootProject.name = 'duno_5438'
+
+include ':app'
